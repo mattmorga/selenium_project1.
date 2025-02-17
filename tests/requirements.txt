@@ -1,0 +1,2 @@
+selenium==4.1.0  # (or the version you're using)
+pytest==7.0.0    # (or the version you're using)
