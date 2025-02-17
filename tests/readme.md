@@ -1,8 +1,35 @@
-# README.md
-# Selenium Testing Project
+Features Tested:
+Login: Validates user login functionality with correct and incorrect credentials.
+Add to Cart: Verifies that items can be added to the shopping cart successfully.
+Checkout: Ensures that the checkout process works smoothly and displays the confirmation message after purchase.
+Technologies Used:
 
-This is a simple Selenium testing project for practicing automation testing using Python and Selenium WebDriver. The tests interact with the SauceDemo website to validate basic features like login, add to cart, and checkout.
+Python
 
+Selenium WebDriver
+
+Pytest (for test execution)
+
+Git (for version control)
+
+Setup Instructions:
+
+ this repository:
+
+git clone https://github.com/your-username/selenium-testing-project.git
+
+Navigate to the project directory:
+cd selenium-testing-project
+
+Install required dependencies:
+pip install -r requirements.txt
+
+How to Run the Tests:
+After setting up, run the tests with the following command: pytest
+Project Structure:
+tests/: Contains all the test files.
+requirements.txt: Lists all the dependencies required for the project.
+README.md: Project documentation.
 ## Prerequisites
 
 - Python 3.x
